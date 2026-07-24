@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Shubham1627
 - 👀 I’m interested in Linux
 - 🏆 RHCSA and RHCE Certified
-- 🌱 I’m currently learning Ansible Automation
-- 💞️ I’m looking to opportunities between Pipelines 
+- 🏆 Red Hat Certified System Administrator in Openshift 
 - 📫 reach me shubhambandgar003@gmail.com
 
 
